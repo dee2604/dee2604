@@ -8,6 +8,7 @@ I’m a **Senior Android Engineer** with 8+ years of experience building scalabl
   - A **modular, version-independent Shopify integration** using proxy endpoints (POC success 🚀)
 
 - 🌱 I’m currently learning:
+  - **Ai in Android**. 
   - **Baseline Profiles** and app startup optimization techniques
   - Advanced **Jetpack Compose testing** and Kotlin Multiplatform Mobile (KMM)
 
