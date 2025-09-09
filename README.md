@@ -29,6 +29,7 @@ I’m a **Senior Android Engineer** with 8+ years of experience building scalabl
 - 📫 How to reach me:
   - 📧 Email: deekshasinghal3@gmail.com  
   - 💼 [LinkedIn](https://www.linkedin.com/in/agrawaldeeksha26/)
+  - [Medium](https://medium.com/@deekshasinghal3)
 
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I reduced production crash rates by **40%**, and improved app load time by **5 seconds**. I also led a **backend migration** across services while ensuring seamless Android releases.
