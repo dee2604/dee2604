@@ -9,7 +9,7 @@ I’m a **Senior Android Engineer** with 8+ years of experience building scalabl
 
 - 🌱 I’m currently learning:
   - **Ai in Android**. 
-  - **Baseline Profiles** and app startup optimization techniques
+  - Kotin backend Developement (Spring Boot). 
   - Advanced **Jetpack Compose testing** and Kotlin Multiplatform Mobile (KMM)
 
 - 👯 I’m looking to collaborate on:
